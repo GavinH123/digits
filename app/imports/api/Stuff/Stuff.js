@@ -30,8 +30,4 @@ class StuffsCollection {
   }
 }
 
-/**
- * The singleton instance of the StuffsCollection.
- * @type {StuffsCollection}
- */
 export const Stuffs = new StuffsCollection();
